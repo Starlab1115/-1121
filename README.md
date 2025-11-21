@@ -11,3 +11,9 @@
 
 ![image](image.jpg)
 
+![image](image1.jpg)
+
+For문으로 i가 100이 될 때까지 반복
+
+
+
