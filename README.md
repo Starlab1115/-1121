@@ -1,5 +1,10 @@
 # 습도 감지기
-**습도**: 대기 중에 포함된 수증기의 지표
+
+![image](image2.jpg)
+
+(출처:https://ideascience.co.kr/product/%EC%8A%B5%EB%8F%84-%EA%B0%90%EC%A7%80%EA%B8%B05%EC%9D%B8-%EC%84%B8%ED%8A%B8/1501/)
+
+***습도***: 대기 중에 포함된 수증기의 지표
 
 적절한 실내 습도: **40~60**
 
